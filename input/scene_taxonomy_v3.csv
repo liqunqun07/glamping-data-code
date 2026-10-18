@@ -1,0 +1,16 @@
+scene_column,display_name,main_category,subclasses
+fac0_light,Light,Surrounding environment,Illuminate; Moment; Event
+fac3_flora,Flora,Surrounding environment,Types of plants; Ecological elements and environments; Environmental and atmospheric phenomena; Trees and flowers
+fac4_landform_and_architecture,Landform and architecture,Surrounding environment,Architectural elements; Natural landscape; Urban and transportation infrastructure; Architectural designs; Residential elements
+fac5_fauna,Fauna,Surrounding environment,Types of animals; Domesticated and working animals; Animal product
+fac14_bodies_of_water,Bodies of water,Surrounding environment,Ocean and river; Aspects of water
+fac6_furnishings,Furnishings,Design factor,Building materials; Interior design; Objects and settings; Geographical features
+fac7_sign_and_logo,Sign and logo,Design factor,Visual sign; Electronic device
+fac8_artistic_embellishments,Artistic embellishments,Design factor,Functional decoration; Decorative elements; Visual arts
+fac2_caravan_and_road_trip,Caravan and road trip,Activity,Vehicle components; Types of vehicles; Automotive components
+fac1_food_and_cooking,Food and cooking,Activity,Dietary categories; Fruit and vegetables; Cuisine; Beverages; Kitchen and dining essentials; Food ingredients
+fac9_photographing,Photographing,Activity,Fashion photography; Group photo; Appearance and dressing; Portrait photography
+fac10_outdoor_recreations,Outdoor recreation,Activity,Natural phenomena; Outdoor grill; Entertainment; Leisure with children
+fac11_festivities,Festivities,Activity,Skyward elements; Glass and bottle; Colors and decorations
+fac12_music_performance,Music performance,Activity,Plant; Musical instruments
+fac13_bicycling,Bicycling,Activity,Bicycle components; Sport equipments

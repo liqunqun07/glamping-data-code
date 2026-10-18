@@ -1,0 +1,762 @@
+[
+  {
+    "campsite_name_en": "Ruian Caocun Aviation Flying Campsite",
+    "original_name": "\u745e\u5b89\u66f9\u6751\u822a\u7a7a\u98de\u884c\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zhuhai Feishatan BBQ Campsite",
+    "original_name": "\u73e0\u6d77\u98de\u6c99\u6ee9\u70e7\u70e4\u9732\u8425"
+  },
+  {
+    "campsite_name_en": "Wuzhen International RV Campsite",
+    "original_name": "\u4e4c\u9547\u56fd\u9645\u6c7d\u8f66\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Xinsha Island Starry Sky Campsite",
+    "original_name": "\u65b0\u6c99\u5c9b\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Mogan Mountain Yelin Garden Campsite Xcamping",
+    "original_name": "\u83ab\u5e72\u5c71\u91ce\u90bb\u82b1\u56ed\u8425\u5730Xcamping"
+  },
+  {
+    "campsite_name_en": "Borman Luxury Qingshui Bay Campsite",
+    "original_name": "\u4f2f\u66fc\u5962\u91ce\u6e05\u6c34\u6e7e\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Haohai Xingchen Surfing Campsite",
+    "original_name": "\u6d69\u6d77\u661f\u8fb0\u51b2\u6d6a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Guangyuan Old Barn Style Campsite",
+    "original_name": "\u5149\u6e90\u8001\u8c37\u4ed3\u98ce\u683c\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Anji Xiaohangkeng Campsite",
+    "original_name": "\u5b89\u5409\u5c0f\u676d\u5751"
+  },
+  {
+    "campsite_name_en": "Dare Wilds Huitong Ancient Village Campsite",
+    "original_name": "\u5927\u70ed\u8352\u91ce\u4f1a\u540c\u53e4\u6751\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Meifan Campsite",
+    "original_name": "\u7f8e\u5e06\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dianshanhu Manor Campsite",
+    "original_name": "\u6dc0\u5c71\u6e56\u5e84\u56ed\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Xiaohangkeng Campsite",
+    "original_name": "\u5c0f\u676d\u5751\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Darehuangyexiaojingwan Campsite",
+    "original_name": "\u5927\u70ed\u8352\u91ce\u5c0f\u5f84\u6e7e\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Niuluyeyinghaiwan Forest Park Campsite",
+    "original_name": "\u725b\u8def\u91ce\u8425\u6d77\u6e7e\u68ee\u6797\u516c\u56ed\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Niuluyeyingdongfangyanhucheng Campsite",
+    "original_name": "\u725b\u8def\u91ce\u8425\u4e1c\u65b9\u76d0\u6e56\u57ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Muye Campsite",
+    "original_name": "\u6c90\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Xinyueyaji GoSafari Wild Luxury Campsite",
+    "original_name": "\u5fc3\u60a6\u96c5\u96c6GoSafari\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Darehuangyexiaotucun Campsite",
+    "original_name": "\u5927\u70ed\u8352\u91ce\u5c0f\u571f\u6751\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Rongchuangyouxinguyesuyinghuo Campsite",
+    "original_name": "\u878d\u521b\u7531\u5fc3\u8c37\u91ce\u5bbf\u8425\u706b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Aizhu Fenglin Light Luxury Campsite",
+    "original_name": "\u827e\u7b51\u00b7\u5cf0\u6797\u8f7b\u5962\u9732\u8425\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yangke Camping Huizhounankunshan Campsite",
+    "original_name": "\u6837\u53ef\u9732\u8425\u60e0\u5dde\u5357\u6606\u5c71\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yuanxiangyesuhuidong Beach Campsite",
+    "original_name": "\u539f\u4e61\u91ce\u5bbf\u60e0\u4e1c\u6d77\u6ee9\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "GoSafari Jiqingli Wild Luxury Tent Campsite",
+    "original_name": "GoSafari\u79ef\u5e86\u91cc\u91ce\u5962\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yuanxiangyesuyingdexiaoguilin Campsite",
+    "original_name": "\u539f\u4e61\u91ce\u5bbf\u82f1\u5fb7\u5c0f\u6842\u6797\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Quyebuluoshuangyuewan Beach Campsite",
+    "original_name": "\u53bb\u91ce\u90e8\u843d\u53cc\u6708\u6e7e\u6c99\u6ee9\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Quyebuluomaozifengyinxinglin Campsite",
+    "original_name": "\u53bb\u91ce\u90e8\u843d\u5e3d\u5b50\u5cf0\u94f6\u674f\u6797\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Foshannanhaisenyuying Campsite",
+    "original_name": "\u4f5b\u5c71\u5357\u6d77\u68ee\u8bed\u8425\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "51Camp Anjiyehuanyuan Campsite ( Qijiandian )",
+    "original_name": "51Camp\u5b89\u5409\u91ce\u6b22\u539f\u9732\u8425\u5730(\u65d7\u8230\u5e97)"
+  },
+  {
+    "campsite_name_en": "Liuxi River Campsite",
+    "original_name": "\u6d41\u6eaa\u6cb3\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Muren Camping Taiyanggushiwujian Campsite",
+    "original_name": "\u6155\u4ec1\u9732\u8425\u592a\u9633\u8c37\u62fe\u4f0d\u95f4\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Murencongxinghuahai Campsite",
+    "original_name": "\u6155\u4ec1\u6dd9\u661f\u82b1\u6d77\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Taolichengshi 48h Sendi Campsite",
+    "original_name": "\u9003\u79bb\u57ce\u5e0248h\u68ee\u5730\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yingdepu Campsite",
+    "original_name": "\u82f1\u5fb7\u749e\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dumasenlin Campsite",
+    "original_name": "\u675c\u9a6c\u68ee\u6797\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yisen Camping iChi Glamping Campsite",
+    "original_name": "\u4e00\u68ee\u9732\u8425iChi Glamping\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Jingjianchayeli Wild Luxury Tent Campsite",
+    "original_name": "\u5883\u89c1\u8336\u91ce\u91cc\u91ce\u5962\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Qianli Campsite",
+    "original_name": "\u828a\u4e3d\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Mengyuanxianjing Campsite",
+    "original_name": "\u52d0\u8fdc\u4ed9\u5883\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huanledaochang Campsite",
+    "original_name": "\u6b22\u4e50\u7a3b\u573a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Fenglinggu Hub Camp Campsite",
+    "original_name": "\u98ce\u94c3\u8c37Hub Camp\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Gengshanxiaozhai Campsite",
+    "original_name": "\u8015\u5c71\u5c0f\u5be8\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Caoyuanxingxiu Campsite",
+    "original_name": "\u8349\u539f\u661f\u5bbf\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "SOUl Ying Campsite",
+    "original_name": "SOUl\u8425\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huaxianzizhangpeng Campsite",
+    "original_name": "\u82b1\u4ed9\u5b50\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Nanao Light Luxury Shanhai Campsite",
+    "original_name": "\u5357\u6fb3\u8f7b\u5962\u5c71\u6d77\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yunshangcaoyuan Starry Sky Campsite",
+    "original_name": "\u4e91\u4e0a\u8349\u539f\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Benmeng FormerDream Campsite",
+    "original_name": "\u672c\u68a6FormerDream\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Bubuxiong Campsite",
+    "original_name": "\u5e03\u5e03\u718a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Moganshanaiyuntian Light Luxury Tent Campsite",
+    "original_name": "\u83ab\u5e72\u5c71\u827e\u8574\u7530\u8f7b\u5962\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Lanka Wild Luxury Campsite",
+    "original_name": "\u5170\u5361\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Pengke Campsite ( Zhaogongshanwuyougudian )",
+    "original_name": "\u7bf7\u5ba2\u9732\u8425\u5730\uff08\u8d75\u516c\u5c71\u65e0\u5fe7\u8c37\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Gulingzhuli Campsite",
+    "original_name": "\u9f13\u5cad\u67f1\u91cc\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Pengke Campsite ( Yaojiashanxiangxigudian )",
+    "original_name": "\u7bf7\u5ba2\u9732\u8425\u5730\uff08\u59da\u5bb6\u5c71\u9999\u6eaa\u8c37\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Pengke Campsite ( Fengxiangyunbaodian )",
+    "original_name": "\u7bf7\u5ba2\u9732\u8425\u5730\uff08\u67ab\u9999\u4e91\u5821\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Locals Wild Luxury Resort Campsite",
+    "original_name": "\u8def\u5ba2\u91ce\u5962\u5ea6\u5047\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Moganshanqinquangu Campsite",
+    "original_name": "\u83ab\u5e72\u5c71\u4eb2\u6cc9\u8c37\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Mingmaxuan Campsite",
+    "original_name": "\u540d\u9a6c\u8f69\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yuanye Camping Taohuadao Campsite",
+    "original_name": "\u539f\u91ce\u9732\u8425\u00b7\u6843\u82b1\u5c9b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dongjiangriluo Campsite",
+    "original_name": "\u4e1c\u6c5f\u65e5\u843d\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Jiwandiqiu Tianya Campsite",
+    "original_name": "\u6781\u73a9\u5730\u7403\u00b7\u5929\u6daf\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Sanxunbian Campsite",
+    "original_name": "\u53c1\u65ec\u5f7c\u5cb8\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Youchuanghujingminsu Campsite",
+    "original_name": "\u6e38\u521b\u6e56\u666f\u6c11\u5bbf\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Pengke Campsite ( Gaoyuanhegudian )",
+    "original_name": "\u7bf7\u5ba2\u9732\u8425\u5730\uff08\u9ad8\u539f\u6cb3\u8c37\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Hai KING Wild Luxury Campsite ( Jiaxingzhan )",
+    "original_name": "\u55e8KING\u91ce\u5962\u9732\u8425\u5730(\u5609\u5174\u7ad9)"
+  },
+  {
+    "campsite_name_en": "Hai KING Wild Luxury Campsite ( Xianzhan )",
+    "original_name": "\u55e8KING\u91ce\u5962\u9732\u8425\u5730(\u897f\u5b89\u7ad9)"
+  },
+  {
+    "campsite_name_en": "Darehuangyexianggelila Campsite",
+    "original_name": "\u5927\u70ed\u8352\u91ce\u9999\u683c\u91cc\u62c9\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dipingxianyanzhoudao Campsite",
+    "original_name": "\u5730\u5e73\u7ebf\u781a\u6d32\u5c9b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huanlesenyebanshan Campsite",
+    "original_name": "\u6b22\u4e50\u68ee\u91ce\u534a\u5c71\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dongdaochayuan Campsite",
+    "original_name": "\u4e1c\u9053\u8336\u56ed\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Shiyechuan Campsite",
+    "original_name": "\u62fe\u91ce\u5ddd\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Gulaoxiangyeshiguang Campsite",
+    "original_name": "\u53e4\u52b3\u4e61\u91ce\u65f6\u5149\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Qinglanzhaidujia Campsite",
+    "original_name": "\u6e05\u5c9a\u5be8\u5ea6\u5047\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yunqirichu Campsite",
+    "original_name": "\u4e91\u6816\u65e5\u51fa\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zhuxijian Campsite",
+    "original_name": "\u7af9\u6eaa\u6da7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Guojiqingnianyingfangshanzhangpeng Campsite",
+    "original_name": "\u56fd\u9645\u9752\u5e74\u8425\u623f\u5c71\u5e10\u7bf7\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Quyebuluoyinghua Campsite",
+    "original_name": "\u53bb\u91ce\u90e8\u843d\u6a31\u82b1\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yequshiguang - Luzui Beach Campsite",
+    "original_name": "\u91ce\u8da3\u65f6\u5149-\u9e7f\u5634\u6c99\u6ee9\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yequshiguang - Fengchidao Campsite",
+    "original_name": "\u91ce\u8da3\u65f6\u5149-\u51e4\u6c60\u5c9b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Riguang Valley Campsite",
+    "original_name": "\u65e5\u5149\u5c71\u8c37\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Lishan Starry Sky Zhangpeng Campsite",
+    "original_name": "\u91cc\u5c71\u661f\u7a7a\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Darehuangyeyunduan 516 Campsite",
+    "original_name": "\u5927\u70ed\u8352\u91ce\u4e91\u7aef516\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "MORNING ISLAND Zaoantaiyangdaozhangpengjiudian Campsite",
+    "original_name": "MORNING ISLAND\u65e9\u5b89\u592a\u9633\u5c9b\u5e10\u7bf7\u9152\u5e97\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Shiyebuluo Starry Sky Campsite",
+    "original_name": "\u62fe\u91ce\u90e8\u843d\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Suixiaoying Campsite",
+    "original_name": "\u7a57\u5c0f\u8425\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Tainingfulv RV Campsite",
+    "original_name": "\u6cf0\u5b81\u798f\u65c5\u623f\u8f66\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Fulv RV Minhu Campsite",
+    "original_name": "\u798f\u65c5\u623f\u8f66\u95fd\u6e56\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Conghuayunfengxigu Campsite",
+    "original_name": "\u4ece\u5316\u4e91\u5cf0\u6eaa\u8c37\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Andeluhuwaishaokaozhangpeng Campsite ( Maquanyingdian )",
+    "original_name": "\u5b89\u5fb7\u9c81\u6237\u5916\u70e7\u70e4\u5e10\u7bf7\u9732\u8425\u5730\uff08\u9a6c\u6cc9\u8425\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Dunhuangdamoyexingguoji Desert Camping Leyuan",
+    "original_name": "\u6566\u714c\u5927\u6f20\u591c\u661f\u56fd\u9645\u6c99\u6f20\u9732\u8425\u4e50\u56ed"
+  },
+  {
+    "campsite_name_en": "Fuxianhujingxi Starry Sky Campsite",
+    "original_name": "\u629a\u4ed9\u6e56\u6676\u559c\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Changshaxi Wild Luxury Campsite",
+    "original_name": "\u957f\u6c99\u897f\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Damingshan Starry Sky Campsite",
+    "original_name": "\u5927\u660e\u5c71\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zhifengshanhuaxiangsan Wild Luxury Campsite",
+    "original_name": "\u667a\u5cf0\u5c71\u6ed1\u7fd4\u4f1e\u00b7\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Meilihaiwan Campsite",
+    "original_name": "\u7f8e\u4e3d\u6d77\u6e7e\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Mingsha Mountain Desert Wild Luxury Campsite",
+    "original_name": "\u9e23\u6c99\u5c71\u6c99\u6f20\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Nankunshanyeying Campsite",
+    "original_name": "\u5357\u6606\u5c71\u91ce\u8425\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Diqiushenghuomuyang Valley Zhangpeng Campsite",
+    "original_name": "\u5730\u7403\u751f\u6d3b\u7267\u9633\u5c71\u8c37\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Aofan Campsite",
+    "original_name": "\u50b2\u5e06\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Shuyeyanluo Wild Luxury Campsite",
+    "original_name": "\u8ff0\u91ce\u5ca9\u6d1b\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Luyinnasen Nature Campsite",
+    "original_name": "\u8def\u9690\u90a3\u68ee\u81ea\u7136\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Qingye Xiaowu Glamping Campsite",
+    "original_name": "\u8f7b\u91ce\u5c0f\u575eGlamping\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Luxiaoyingzhangpeng Campsite",
+    "original_name": "\u9e7f\u5c0f\u8425\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Wanandiqiuren Campsite",
+    "original_name": "\u665a\u5b89\u5730\u7403\u4eba\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yujianshangu Campsite ( Huangyanjiuxidian )",
+    "original_name": "\u9047\u89c1\u6749\u8c37\u9732\u8425\u5730(\u9ec4\u5ca9\u4e5d\u6eaa\u5e97)"
+  },
+  {
+    "campsite_name_en": "Hejiazhai Campsite",
+    "original_name": "\u4f55\u5bb6\u5be8\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Xiangyang OCT Fantasy Childhood Family Park Campsite",
+    "original_name": "\u8944\u9633\u534e\u4fa8\u57ce\u5947\u8da3\u7ae5\u5e74\u4eb2\u5b50\u4e50\u56ed\u8425\u5730\u4e2d\u5fc3"
+  },
+  {
+    "campsite_name_en": "Xunliaowanchenggong Campsite",
+    "original_name": "\u5dfd\u5bee\u6e7e\u6210\u529f\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yangshuogoudan Campsite",
+    "original_name": "\u9633\u6714\u72d7\u86cb\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Senhai Wild Luxury Zhangpeng Campsite",
+    "original_name": "\u68ee\u6d77\u91ce\u5962\u5e10\u7bf7\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Lvyexunzong Campsite Base",
+    "original_name": "\u7eff\u91ce\u5bfb\u8e2a\u9732\u8425\u57fa\u5730"
+  },
+  {
+    "campsite_name_en": "Kongguhuayuan Starry Sky Zhangpeng Campsite",
+    "original_name": "\u7a7a\u8c37\u82b1\u56ed\u661f\u7a7a\u5e10\u7bf7\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Muxinghu Campsite",
+    "original_name": "\u7267\u661f\u6e56\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yuntaishan Campsite",
+    "original_name": "\u4e91\u53f0\u5c71\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "CAMPANY Juzizhou Campsite",
+    "original_name": "CAMPANY\u6a58\u5b50\u6d32\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Niubeishanxingchen Campsite",
+    "original_name": "\u725b\u80cc\u5c71\u661f\u8fb0\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Jiurushan Starry Sky Campsite",
+    "original_name": "\u4e5d\u5982\u5c71\u661f\u7a7a\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yechang Light Luxury Campsite ( Dawangudian )",
+    "original_name": "\u91ce\u573a\u8f7b\u5962\u9732\u8425\u5730\uff08\u5927\u6e7e\u8c37\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Zhenyangxiaxianludao Campsite",
+    "original_name": "\u6d48\u9633\u5ce1\u4ed9\u9e7f\u5c9b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yinghuochongsenlin Campsite",
+    "original_name": "\u8424\u706b\u866b\u68ee\u6797\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huanye Light Luxury Campsite ( Qingyangshandian )",
+    "original_name": "\u7115\u91ce\u8f7b\u5962\u9732\u8425\u5730\uff08\u9752\u9633\u5c71\u5e97\uff09"
+  },
+  {
+    "campsite_name_en": "Jushan Yuelan Campsite",
+    "original_name": "\u5c45\u5c71\u00b7\u60a6\u6f9c\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zhuhaizhanglong LONGTRIP Tinghaiqiquying Campsite",
+    "original_name": "\u73e0\u6d77\u957f\u9686LONGTRIP\u542c\u6d77\u5947\u8da3\u8425\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Niubeishanguoji Campsite",
+    "original_name": "\u725b\u80cc\u5c71\u56fd\u9645\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Qianmojianmoye Campsite",
+    "original_name": "\u4edf\u964c\u95f4\u964c\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Fanqi Light Luxury Campsite",
+    "original_name": "\u68b5\u6816\u8f7b\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Xinggaoduchunye Campsite",
+    "original_name": "\u661f\u9ad8\u5ea6\u693f\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yaoyedalingshan Campsite",
+    "original_name": "\u8000\u91ce\u5927\u5cad\u5c71\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yaoyelongwan Campsite",
+    "original_name": "\u8000\u91ce\u9f99\u6e7e\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Jiuheyuantianquye Campsite",
+    "original_name": "\u4e5d\u6cb3\u56ed\u7530\u53bb\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Meiguihaian Haidaoriji Campsite",
+    "original_name": "\u73ab\u7470\u6d77\u5cb8\u00b7\u6d77\u5c9b\u65e5\u8bb0\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Taihuxiuxingu Campsite",
+    "original_name": "\u592a\u6e56\u4fee\u5fc3\u8c37\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Beiji Camping 2 Haoluoxian Campsite",
+    "original_name": "\u5317\u8ff9\u9732\u84252\u53f7\u7f57\u4ed9\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Go Safari Heipaijiao Wild Luxury Campsite",
+    "original_name": "Go Safari \u00b7 \u9ed1\u6392\u89d2\u91ce\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Camp Wonder Taihu Campsite ( Qisimiaoxiangying )",
+    "original_name": "Camp Wonder\u00b7\u592a\u6e56\u8425\u5730 (\u5947\u601d\u5999\u60f3\u8425)"
+  },
+  {
+    "campsite_name_en": "Foshanmeideluhuqusaye Campsite",
+    "original_name": "\u4f5b\u5c71\u7f8e\u7684\u9e6d\u6e56\u8da3\u6492\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yingquangu Campsite",
+    "original_name": "\u8424\u6cc9\u8c37\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yiluye Starry Sky Campsite",
+    "original_name": "\u58f9\u8def\u91ce\u661f\u7a7a\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Diaoshui Scenic Area",
+    "original_name": "_\u6c34\u666f\u533a"
+  },
+  {
+    "campsite_name_en": "Hongshizhai Tourist Resort",
+    "original_name": "\u7ea2\u77f3\u5be8\u65c5\u6e38\u5ea6\u5047\u533a"
+  },
+  {
+    "campsite_name_en": "Pingxiang Wugong Mountain Scenic Area",
+    "original_name": "\u840d\u4e61\u6b66\u529f\u5c71\u98ce\u666f\u533a"
+  },
+  {
+    "campsite_name_en": "Bataoyuan Scenic Area",
+    "original_name": "\u5df4\u6843\u56ed\u666f\u533a"
+  },
+  {
+    "campsite_name_en": "Qiandao Lake Peninsula Greenway Campsite",
+    "original_name": "\u5343\u5c9b\u6e56\u534a\u5c9b\u7eff\u9053\u9732\u8425\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Tieshanping Forest Park",
+    "original_name": "\u94c1\u5c71\u576a\u68ee\u6797\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Nangong Camping Yundongleyuan",
+    "original_name": "\u5357\u5bab\u9732\u8425\u8fd0\u52a8\u4e50\u56ed"
+  },
+  {
+    "campsite_name_en": "Taihuyihao RV Camping Park",
+    "original_name": "\u592a\u6e56\u4e00\u53f7\u623f\u8f66\u9732\u8425\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Jiaoding Mountain Scenic Area",
+    "original_name": "\u8f7f\u9876\u5c71"
+  },
+  {
+    "campsite_name_en": "Hongshigoushengtaixiuxian Farm",
+    "original_name": "\u7ea2\u77f3\u6c9f\u751f\u6001\u4f11\u95f2\u519c\u573a"
+  },
+  {
+    "campsite_name_en": "Jiuzhaigou Love Sea Scenic Area",
+    "original_name": "\u4e5d\u5be8\u6c9f\u7231\u60c5\u6d77\u666f\u533a"
+  },
+  {
+    "campsite_name_en": "Luokengcaoyuan",
+    "original_name": "\u7f57\u5751\u8349\u539f"
+  },
+  {
+    "campsite_name_en": "Baxizhou",
+    "original_name": "\u5df4\u6eaa\u6d32"
+  },
+  {
+    "campsite_name_en": "Heishantou Leifu Wetland Manor Scenic Area",
+    "original_name": "\u9ed1\u5c71\u5934\u5217\u592b\u6e7f\u5730\u5e84\u56ed\u666f\u533a"
+  },
+  {
+    "campsite_name_en": "Yanminghuzijiayou Campsite",
+    "original_name": "\u96c1\u9e23\u6e56\u81ea\u9a7e\u6e38\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Pujiang Country Park",
+    "original_name": "\u6d66\u6c5f\u90ca\u91ce\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Dabieshan Camping Park",
+    "original_name": "\u5927\u522b\u5c71\u9732\u8425\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Zall Town Taohuayi",
+    "original_name": "\u5353\u5c14\u5c0f\u9547\u6843\u82b1\u9a7f"
+  },
+  {
+    "campsite_name_en": "Shixibainiaoyuan",
+    "original_name": "\u77f3\u6eaa\u767e\u9e1f\u56ed"
+  },
+  {
+    "campsite_name_en": "Dongqianhushangshuizhangpeng Campsite",
+    "original_name": "\u4e1c\u94b1\u6e56\u4e0a\u6c34\u5e10\u7bf7\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yangguanghaian Camping Park",
+    "original_name": "\u9633\u5149\u6d77\u5cb8\u9732\u8425\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Chuanxi Red Maple Ridge",
+    "original_name": "\u5ddd\u897f\u7ea2\u67ab\u5cad"
+  },
+  {
+    "campsite_name_en": "Taihu Bay Camping Valley",
+    "original_name": "\u592a\u6e56\u6e7e\u9732\u8425\u8c37"
+  },
+  {
+    "campsite_name_en": "Chashan",
+    "original_name": "\u8336\u5c71"
+  },
+  {
+    "campsite_name_en": "Chujiatan Scenic Spot",
+    "original_name": "\u50a8\u5bb6\u6ee9"
+  },
+  {
+    "campsite_name_en": "Beiwei 23\u00b08\u2032 Senlin Campsite",
+    "original_name": "\u5317\u7eac23\u00b08\u2032\u68ee\u6797\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Habahu Ecological Tourist Area",
+    "original_name": "\u54c8\u5df4\u6e56\u751f\u6001\u65c5\u6e38\u533a"
+  },
+  {
+    "campsite_name_en": "Beiji Camping",
+    "original_name": "\u5317\u8ff9\u9732\u8425"
+  },
+  {
+    "campsite_name_en": "Guangfulin Country Park",
+    "original_name": "\u5e7f\u5bcc\u6797\u90ca\u91ce\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Tujunantongkaishadao Campsite",
+    "original_name": "\u9014\u5c45\u5357\u901a\u5f00\u6c99\u5c9b\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huaxigushuqiao Park",
+    "original_name": "\u82b1\u6eaa\u8c37\u6811\u6865\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Xiazhuhu Starry Sky Campsite",
+    "original_name": "\u4e0b\u6e1a\u6e56\u661f\u7a7a\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zijiayouyunshan Camping Park",
+    "original_name": "\u81ea\u9a7e\u53cb\u4e91\u5c71\u9732\u8425\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Guanyindangcaodian Starry Sky Huwai Campsite",
+    "original_name": "\u89c2\u97f3\u5b95\u8349\u7538\u661f\u7a7a\u6237\u5916\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Longxishengtaiyouleyuan",
+    "original_name": "\u9f99\u6eaa\u751f\u6001\u6e38\u4e50\u56ed"
+  },
+  {
+    "campsite_name_en": "Tengtouleyuan",
+    "original_name": "\u6ed5\u5934\u4e50\u56ed"
+  },
+  {
+    "campsite_name_en": "Haituogou Valley RV Park Campsite",
+    "original_name": "\u6d77\u5768\u5c71\u8c37RVPark\u623f\u8f66\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dunhuang Mingsha Mountain Desert Off-Road Base",
+    "original_name": "\u6566\u714c\u9e23\u6c99\u5c71\u6c99\u6f20\u9732\u8425\u8d8a\u91ce\u57fa\u5730"
+  },
+  {
+    "campsite_name_en": "Dajianshan Camping Park",
+    "original_name": "\u5927\u5c16\u5c71\u9732\u8425\u516c\u56ed"
+  },
+  {
+    "campsite_name_en": "Tujuzhaoshanguoji RV Campsite",
+    "original_name": "\u9014\u5c45\u662d\u5c71\u56fd\u9645\u623f\u8f66\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Yalianfeixing Campsite",
+    "original_name": "\u4e9a\u8054\u98de\u884c\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Huoxing Campsite",
+    "original_name": "\u706b\u661f\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Dunhuang Mingsha Mountain Desert Wild Luxury Base",
+    "original_name": "\u6566\u714c\u9e23\u6c99\u5c71\u6c99\u6f20\u9732\u8425\u91ce\u5962\u57fa\u5730"
+  },
+  {
+    "campsite_name_en": "Meixiaoyexingguanghuahai",
+    "original_name": "\u6885\u5c0f\u91ce\u661f\u5149\u82b1\u6d77"
+  },
+  {
+    "campsite_name_en": "Donghu Beach Moon Night Campsite",
+    "original_name": "\u4e1c\u6e56\u6c99\u6ee9Moon\u00b7Night\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Liangzihuhuludao RV Campsite",
+    "original_name": "\u6881\u5b50\u6e56\u846b\u82a6\u5c9b\u623f\u8f66\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Damoxianghe Desert Galaxy Campsite",
+    "original_name": "\u5927\u6f20\u661f\u6cb3\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Zhulinqijing Campsite",
+    "original_name": "\u7af9\u6797\u5947\u5883\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Sanshuihaoyouying Light Luxury Campsite",
+    "original_name": "\u4e09\u6c34\u597d\u53cb\u8425\u8f7b\u5962\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Maolin Campsite",
+    "original_name": "\u5e3d\u6797\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Star Field Xingye Campsite",
+    "original_name": "Star Field\u661f\u91ce\u9732\u8425\u5730"
+  },
+  {
+    "campsite_name_en": "Guizhou Wujiangzhai International Tourist Resort",
+    "original_name": "\u8d35\u5dde\u4e4c\u6c5f\u5be8\u56fd\u9645\u65c5\u6e38\u5ea6\u5047\u533a"
+  }
+]

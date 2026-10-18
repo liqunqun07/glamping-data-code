@@ -1,0 +1,16 @@
+{
+  "source_tag_rows": 9572,
+  "fitting_reviews": 1559,
+  "fitting_photo_rows": 8965,
+  "final_reviews": 1409,
+  "final_photo_rows": 8330,
+  "frequency_median": 4.0,
+  "retained_vocabulary": 732,
+  "vector_covered_tags": 719,
+  "word_clusters": 50,
+  "retained_factors": 16,
+  "eigenvalues_above_one": 19,
+  "first_16_variance_percent": 54.219815092923426,
+  "fitted_factor_variance_percent": 54.04506157828644,
+  "final_scene_occurrences": 81764
+}

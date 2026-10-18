@@ -1,0 +1,720 @@
+keyword,candidate_1559_tag_count,cluster_id,group,factor_id,factor_name,scene,subclass
+Celestial event,5.0,49,group49,0,Light,Light,Event
+Competition event,10.0,49,group49,0,Light,Light,Event
+Event,1682.0,49,group49,0,Light,Light,Event
+Public event,11.0,49,group49,0,Light,Light,Event
+Light,117.0,20,group20,0,Light,Light,Illuminate
+Light fixture,18.0,20,group20,0,Light,Light,Illuminate
+Lighting,59.0,20,group20,0,Light,Light,Illuminate
+Security lighting,5.0,20,group20,0,Light,Light,Illuminate
+Street light,30.0,20,group20,0,Light,Light,Illuminate
+Visual effect lighting,12.0,20,group20,0,Light,Light,Illuminate
+Evening,7.0,21,group21,0,Light,Light,Moment
+Midnight,230.0,21,group21,0,Light,Light,Moment
+Morning,46.0,21,group21,0,Light,Light,Moment
+Night,56.0,21,group21,0,Light,Light,Moment
+Spring,21.0,21,group21,0,Light,Light,Moment
+Summer,17.0,21,group21,0,Light,Light,Moment
+Winter,18.0,21,group21,0,Light,Light,Moment
+Alcoholic beverage,25.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Baked goods,8.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Cup,13.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Drink,39.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Fluid,92.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Gadget,6.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Ingredient,414.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Liquid,204.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Luggage and bags,8.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Machine,45.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Mixing bowl,7.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Produce,95.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Soft drink,5.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Superfood,7.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Waste container,8.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Wine,6.0,22,group22,1,Food and cooking (a),Food and cooking,Beverages
+Breakfast sausage,7.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Brochette,16.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Cooking,218.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Cuisine,453.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Dish,318.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Drunken chicken,8.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Grilling,28.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Italian sausage,7.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Karahi,5.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Knackwurst,7.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Meal,13.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Noodle,8.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Recipe,417.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Roasting,30.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Satay,9.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Sate kambing,15.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Shashlik,8.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Stew,5.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Suya,12.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Thuringian sausage,7.0,25,group25,1,Food and cooking (a),Food and cooking,Cuisine
+Comfort food,22.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Fast food,30.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Finger food,11.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Food,639.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Food group,61.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Food storage,5.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Fried food,10.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Junk food,9.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Local food,9.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Staple food,68.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Whole food,45.0,43,group43,1,Food and cooking (a),Food and cooking,Dietary categories
+Cherry Tomatoes,12.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Fruit,132.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Leaf vegetable,35.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Peach,6.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Plum tomato,13.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Seedless fruit,6.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Strawberry,5.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Vegetable,34.0,38,group38,1,Food and cooking (a),Food and cooking,Fruit and vegetables
+Barware,15.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Bedding,45.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Cabinetry,8.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Cookware and bakeware,37.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Countertop,5.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Dishware,98.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Drinkware,47.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Flooring,244.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Furniture,118.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Kitchen appliance,36.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Kitchen utensil,12.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Linens,78.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Serveware,51.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Stemware,8.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Tableware,511.0,13,group13,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials
+Auto part,23.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive design,38.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive exterior,115.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive lighting,105.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive mirror,13.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive parking light,17.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive tail & brake light,8.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive tire,145.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Automotive wheel system,27.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Tire,160.0,23,group23,2,Caravan and road trip,Caravan and road trip,Automotive components
+Cable car,10.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Car,106.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Commercial vehicle,5.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Land vehicle,19.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Motor vehicle,163.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Motorcycle,6.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Truck,7.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Van,6.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Vehicle,458.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Vehicle door,9.0,28,group28,2,Caravan and road trip,Caravan and road trip,Types of vehicles
+Bumper,28.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Cylinder,12.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Fender,15.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Ferris wheel,19.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Headlamp,8.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Hood,24.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Trunk,148.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Wheel,172.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Windshield,6.0,35,group35,2,Caravan and road trip,Caravan and road trip,Vehicle components
+Botany,206.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Forb,6.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Forest,184.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Grass,3480.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Grassland,1067.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Meadow,120.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Pasture,9.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Pollen,5.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Pollinator,16.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Prairie,50.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Riparian zone,27.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Soil,252.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Temperate broadleaf and mixed forest,15.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Vegetation,78.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Wildflower,8.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Woodland,10.0,24,group24,3,Flora,Flora,Ecological elements and environments
+Calm,28.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Cloud,2861.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Cool,10.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Darkness,191.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Dusk,235.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Fire,73.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Flame,61.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Fog,184.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Freezing,30.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Haze,32.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Heat,124.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Horizon,907.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Lens flare,20.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Mist,69.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Moon,22.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Red sky at morning,67.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Shade,1021.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Shadow,7.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sky,5181.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Smoke,9.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sun,7.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sun hat,31.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sunlight,71.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sunrise,155.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Sunset,126.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Temperature,9.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Wind,102.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Wind wave,11.0,5,group5,3,Flora,Flora,Environmental and atmospheric phenomena
+Blossom,22.0,6,group6,3,Flora,Flora,Trees and flowers
+Butterfly,6.0,6,group6,3,Flora,Flora,Trees and flowers
+Conifer,10.0,6,group6,3,Flora,Flora,Trees and flowers
+Deciduous,31.0,6,group6,3,Flora,Flora,Trees and flowers
+Evergreen,52.0,6,group6,3,Flora,Flora,Trees and flowers
+Floristry,22.0,6,group6,3,Flora,Flora,Trees and flowers
+Flower,858.0,6,group6,3,Flora,Flora,Trees and flowers
+Flower Arranging,77.0,6,group6,3,Flora,Flora,Trees and flowers
+Fruit tree,7.0,6,group6,3,Flora,Flora,Trees and flowers
+Garden,11.0,6,group6,3,Flora,Flora,Trees and flowers
+Garden roses,5.0,6,group6,3,Flora,Flora,Trees and flowers
+Groundcover,489.0,6,group6,3,Flora,Flora,Trees and flowers
+Herb,7.0,6,group6,3,Flora,Flora,Trees and flowers
+Houseplant,30.0,6,group6,3,Flora,Flora,Trees and flowers
+Landscaping,7.0,6,group6,3,Flora,Flora,Trees and flowers
+Larch,15.0,6,group6,3,Flora,Flora,Trees and flowers
+Lawn,71.0,6,group6,3,Flora,Flora,Trees and flowers
+Lawn ornament,36.0,6,group6,3,Flora,Flora,Trees and flowers
+Leaf,41.0,6,group6,3,Flora,Flora,Trees and flowers
+Lotus,5.0,6,group6,3,Flora,Flora,Trees and flowers
+Palm tree,14.0,6,group6,3,Flora,Flora,Trees and flowers
+Petal,436.0,6,group6,3,Flora,Flora,Trees and flowers
+Shrub,377.0,6,group6,3,Flora,Flora,Trees and flowers
+Tree,3086.0,6,group6,3,Flora,Flora,Trees and flowers
+Twig,242.0,6,group6,3,Flora,Flora,Trees and flowers
+Annual plant,110.0,39,group39,3,Flora,Flora,Types of plants
+Aquatic plant,7.0,39,group39,3,Flora,Flora,Types of plants
+Flowering plant,264.0,39,group39,3,Flora,Flora,Types of plants
+Herbaceous plant,84.0,39,group39,3,Flora,Flora,Types of plants
+Plant,4474.0,39,group39,3,Flora,Flora,Types of plants
+Plant community,179.0,39,group39,3,Flora,Flora,Types of plants
+Plant stem,21.0,39,group39,3,Flora,Flora,Types of plants
+Terrestrial plant,799.0,39,group39,3,Flora,Flora,Types of plants
+Woody plant,60.0,39,group39,3,Flora,Flora,Types of plants
+Architecture,21.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Chinese architecture,60.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Fashion design,13.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Floral design,12.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Interior design,123.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Japanese architecture,22.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Medieval architecture,37.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Naval architecture,18.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Urban design,394.0,18,group18,4,Landform and architecture,Landform and architecture,Architectural designs
+Arch,81.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Arch bridge,8.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Asphalt,555.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Boardwalk,9.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Brick,46.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Brickwork,36.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Bridge,46.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Cemetery,6.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Concrete,25.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Concrete bridge,5.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Facade,499.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Fence,200.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Fountain,6.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Grave,7.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Monument,85.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Pagoda,12.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Playground,12.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Sidewalk,16.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Split-rail fence,7.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Statue,55.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Stone wall,6.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Temple,111.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Walkway,21.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Wall,22.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Waterfall,40.0,2,group2,4,Landform and architecture,Landform and architecture,Architectural elements
+Beauty,42.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Landscape,4244.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Natural environment,149.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Natural foods,185.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Natural landscape,3183.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Natural material,29.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Nature,425.0,36,group36,4,Landform and architecture,Landform and architecture,Natural landscape
+Bedroom,9.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Building,1970.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Building material,151.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Commercial building,6.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Composite material,275.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Condominium,9.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Cottage,30.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Home appliance,11.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Home fencing,9.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+House,588.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Nonbuilding structure,35.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Property,265.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Wire fencing,8.0,3,group3,4,Landform and architecture,Landform and architecture,Residential elements
+Archaeological site,9.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Bank,78.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Branch,40.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+City,536.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Community,49.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Customer,8.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Electricity,54.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Engineering,109.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Gas,257.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Historic site,64.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Infrastructure,29.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Market,36.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Mill,6.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Mode of transport,19.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Pollution,24.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Product,45.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Public space,18.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Public transport,10.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Public utility,5.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Railway,5.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Residential area,23.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Retail,9.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Rural area,50.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Technology,14.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Textile,90.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Thoroughfare,88.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Train,13.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Transport hub,7.0,4,group4,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure
+Animal fat,21.0,1,group1,5,Fauna,Fauna,Animal product
+Animal product,37.0,1,group1,5,Fauna,Fauna,Animal product
+Human,57.0,1,group1,5,Fauna,Fauna,Animal product
+Human body,20.0,1,group1,5,Fauna,Fauna,Animal product
+Human leg,64.0,1,group1,5,Fauna,Fauna,Animal product
+Human settlement,8.0,1,group1,5,Fauna,Fauna,Animal product
+Pack animal,23.0,1,group1,5,Fauna,Fauna,Animal product
+Terrestrial animal,118.0,1,group1,5,Fauna,Fauna,Animal product
+Working animal,83.0,1,group1,5,Fauna,Fauna,Animal product
+Alpaca,14.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Bactrian camel,7.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Camel,20.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Camelid,24.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Cat,8.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Companion dog,29.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Dog,35.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Dog breed,38.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Fawn,49.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Horse,15.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Horse tack,7.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Llama,12.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Rabbits and Hares,7.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Small to medium-sized cats,6.0,32,group32,5,Fauna,Fauna,Domesticated and working animals
+Arthropod,27.0,37,group37,5,Fauna,Fauna,Types of animals
+Biome,170.0,37,group37,5,Fauna,Fauna,Types of animals
+Bird,51.0,37,group37,5,Fauna,Fauna,Types of animals
+Carnivore,56.0,37,group37,5,Fauna,Fauna,Types of animals
+Dinosaur,12.0,37,group37,5,Fauna,Fauna,Types of animals
+"Ducks, geese and swans",9.0,37,group37,5,Fauna,Fauna,Types of animals
+Ecoregion,298.0,37,group37,5,Fauna,Fauna,Types of animals
+Insect,22.0,37,group37,5,Fauna,Fauna,Types of animals
+Mammal,37.0,37,group37,5,Fauna,Fauna,Types of animals
+Organism,79.0,37,group37,5,Fauna,Fauna,Types of animals
+Primate,5.0,37,group37,5,Fauna,Fauna,Types of animals
+Vertebrate,47.0,37,group37,5,Fauna,Fauna,Types of animals
+Waterfowl,7.0,37,group37,5,Fauna,Fauna,Types of animals
+Wildlife,21.0,37,group37,5,Fauna,Fauna,Types of animals
+Hardwood,228.0,41,group41,6,Furnishings,Furnishings,Building materials
+Lumber,7.0,41,group41,6,Furnishings,Furnishings,Building materials
+Metal,178.0,41,group41,6,Furnishings,Furnishings,Building materials
+Paint,32.0,41,group41,6,Furnishings,Furnishings,Building materials
+Plastic,9.0,41,group41,6,Furnishings,Furnishings,Building materials
+Plywood,7.0,41,group41,6,Furnishings,Furnishings,Building materials
+Steel,9.0,41,group41,6,Furnishings,Furnishings,Building materials
+Varnish,6.0,41,group41,6,Furnishings,Furnishings,Building materials
+Wood,1311.0,41,group41,6,Furnishings,Furnishings,Building materials
+Wood stain,73.0,41,group41,6,Furnishings,Furnishings,Building materials
+Aeolian landform,73.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Cave,6.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Coastal and oceanic landforms,37.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Dune,5.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Fluvial landforms of streams,189.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Highland,277.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Hill,259.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Hill station,21.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Jungle,29.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Lake,497.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Mountain,1110.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Mountain range,134.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Mountainous landforms,119.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Outcrop,49.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Reservoir,9.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Rock,57.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Sand,33.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Singing sand,24.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Slope,581.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Snow,44.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Terrain,212.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Valley,70.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Watercourse,114.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Waterway,31.0,9,group9,6,Furnishings,Furnishings,Geographical features
+Bed,48.0,26,group26,6,Furnishings,Furnishings,Interior design
+Bed frame,30.0,26,group26,6,Furnishings,Furnishings,Interior design
+Ceiling,73.0,26,group26,6,Furnishings,Furnishings,Interior design
+Couch,6.0,26,group26,6,Furnishings,Furnishings,Interior design
+Door,33.0,26,group26,6,Furnishings,Furnishings,Interior design
+Fireplace,11.0,26,group26,6,Furnishings,Furnishings,Interior design
+Floor,111.0,26,group26,6,Furnishings,Furnishings,Interior design
+Living room,8.0,26,group26,6,Furnishings,Furnishings,Interior design
+Pillow,5.0,26,group26,6,Furnishings,Furnishings,Interior design
+Porch,7.0,26,group26,6,Furnishings,Furnishings,Interior design
+Roof,374.0,26,group26,6,Furnishings,Furnishings,Interior design
+Room,148.0,26,group26,6,Furnishings,Furnishings,Interior design
+Tarpaulin,86.0,26,group26,6,Furnishings,Furnishings,Interior design
+Tent,856.0,26,group26,6,Furnishings,Furnishings,Interior design
+Window,224.0,26,group26,6,Furnishings,Furnishings,Interior design
+Window treatment,5.0,26,group26,6,Furnishings,Furnishings,Interior design
+Balance,11.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Ball,6.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Bench,5.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Bouquet,23.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Chair,255.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Circle,69.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Curtain,11.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Desk,12.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Facial expression,39.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Field,5.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Head,33.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Hedge,45.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Line,10.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Mesh,18.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Microphone,5.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Monolith,5.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Overhead power line,7.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Pattern,87.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Plank,18.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Plate,92.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Plateau,22.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Pyramid,8.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Rectangle,227.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Rim,10.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Shelf,12.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Shelving,14.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Siding,21.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Sitting,54.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Sleeve,171.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Smile,297.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Stage,7.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Style,7.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Swing,8.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Symmetry,71.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Table,567.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Tread,19.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Triangle,201.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Umbrella,25.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Wing,19.0,8,group8,6,Furnishings,Furnishings,Objects and settings
+Communication Device,5.0,48,group48,7,Sign and logo,Sign and logo,Electronic device
+Display device,50.0,48,group48,7,Sign and logo,Sign and logo,Electronic device
+Electronic device,15.0,48,group48,7,Sign and logo,Sign and logo,Electronic device
+Output device,5.0,48,group48,7,Sign and logo,Sign and logo,Electronic device
+Billboard,5.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Commemorative plaque,9.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Flag,15.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Font,404.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Handwriting,23.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Logo,7.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Photograph,285.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Picture frame,8.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Poster,8.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Screenshot,10.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Sign,17.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Signage,63.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Symbol,7.0,45,group45,7,Sign and logo,Sign and logo,Visual sign
+Candle,10.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Collage,34.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Decoration,48.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Finial,11.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Flowerpot,49.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Lamp,6.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Lantern,5.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Painting,43.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Porcelain,8.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Sculpture,107.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Tablecloth,64.0,33,group33,8,Artistic embellishments,Artistic embellishments,Decorative elements
+Bicycles--Equipment and supplies,7.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Boats and boating--Equipment and supplies,40.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Horse supplies,6.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Party supply,5.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Pet supply,11.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Wedding ceremony supply,25.0,44,group44,8,Artistic embellishments,Artistic embellishments,Functional decoration
+Art,740.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Artist,8.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Creative arts,20.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Environmental art,22.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Flash photography,52.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Monochrome photography,7.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Music,36.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Music artist,14.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Musician,10.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Performance art,10.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Performing arts,58.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Still life photography,5.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Visual arts,30.0,15,group15,8,Artistic embellishments,Artistic embellishments,Visual arts
+Baseball cap,18.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Black hair,6.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Brassiere,7.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Bridle,7.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Cap,32.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Collar,10.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Denim,7.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Dress,10.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Feather,13.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Fedora,10.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Formal wear,23.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Fur,33.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Glasses,22.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Goggles,24.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Hair,31.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Hairstyle,7.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Hat,214.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Headgear,12.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Helmet,19.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Jacket,6.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Jeans,6.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Long hair,5.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Military camouflage,5.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Shirt,7.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Shorts,89.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Sunglasses,29.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Tartan,5.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Uniform,6.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Wool,5.0,17,group17,9,Photographing,Photographing,Appearance and dressing
+Clothing,25.0,30,group30,9,Photographing,Photographing,Fashion photography
+Eyewear,32.0,30,group30,9,Photographing,Photographing,Fashion photography
+Fashion,24.0,30,group30,9,Photographing,Photographing,Fashion photography
+Fashion accessory,51.0,30,group30,9,Photographing,Photographing,Fashion photography
+Footwear,5.0,30,group30,9,Photographing,Photographing,Fashion photography
+Outerwear,32.0,30,group30,9,Photographing,Photographing,Fashion photography
+Sportswear,7.0,30,group30,9,Photographing,Photographing,Fashion photography
+Afterglow,174.0,12,group12,9,Photographing,Photographing,Group photo
+Atmosphere,278.0,12,group12,9,Photographing,Photographing,Group photo
+Comfort,213.0,12,group12,9,Photographing,Photographing,Group photo
+Crowd,72.0,12,group12,9,Photographing,Photographing,Group photo
+Drawing,7.0,12,group12,9,Photographing,Photographing,Group photo
+Fan,11.0,12,group12,9,Photographing,Photographing,Group photo
+Fixture,364.0,12,group12,9,Photographing,Photographing,Group photo
+Flat panel display,7.0,12,group12,9,Photographing,Photographing,Group photo
+Friendship,31.0,12,group12,9,Photographing,Photographing,Group photo
+Function hall,8.0,12,group12,9,Photographing,Photographing,Group photo
+Funeral,14.0,12,group12,9,Photographing,Photographing,Group photo
+Gesture,335.0,12,group12,9,Photographing,Photographing,Group photo
+Happy,599.0,12,group12,9,Photographing,Photographing,Group photo
+Holy places,21.0,12,group12,9,Photographing,Photographing,Group photo
+Hybrid tea rose,11.0,12,group12,9,Photographing,Photographing,Group photo
+Land lot,703.0,12,group12,9,Photographing,Photographing,Group photo
+Landmark,59.0,12,group12,9,Photographing,Photographing,Group photo
+New year,16.0,12,group12,9,Photographing,Photographing,Group photo
+New year's eve,6.0,12,group12,9,Photographing,Photographing,Group photo
+Number,6.0,12,group12,9,Photographing,Photographing,Group photo
+Place of worship,39.0,12,group12,9,Photographing,Photographing,Group photo
+Plan,12.0,12,group12,9,Photographing,Photographing,Group photo
+Player,9.0,12,group12,9,Photographing,Photographing,Group photo
+Real estate,223.0,12,group12,9,Photographing,Photographing,Group photo
+Reflection,5.0,12,group12,9,Photographing,Photographing,Group photo
+Rejoicing,5.0,12,group12,9,Photographing,Photographing,Group photo
+Rose,19.0,12,group12,9,Photographing,Photographing,Group photo
+Rose order,6.0,12,group12,9,Photographing,Photographing,Group photo
+Service,11.0,12,group12,9,Photographing,Photographing,Group photo
+Sharing,307.0,12,group12,9,Photographing,Photographing,Group photo
+Snapshot,75.0,12,group12,9,Photographing,Photographing,Group photo
+Social group,26.0,12,group12,9,Photographing,Photographing,Group photo
+Solution,5.0,12,group12,9,Photographing,Photographing,Group photo
+Space,41.0,12,group12,9,Photographing,Photographing,Group photo
+Sporting Group,13.0,12,group12,9,Photographing,Photographing,Group photo
+Star,12.0,12,group12,9,Photographing,Photographing,Group photo
+Team,5.0,12,group12,9,Photographing,Photographing,Group photo
+Tradition,6.0,12,group12,9,Photographing,Photographing,Group photo
+Transparency,8.0,12,group12,9,Photographing,Photographing,Group photo
+Vision care,22.0,12,group12,9,Photographing,Photographing,Group photo
+Watch,6.0,12,group12,9,Photographing,Photographing,Group photo
+World,91.0,12,group12,9,Photographing,Photographing,Group photo
+Abdomen,10.0,11,group11,9,Photographing,Photographing,Portrait photography
+Arm,8.0,11,group11,9,Photographing,Photographing,Portrait photography
+Beak,32.0,11,group11,9,Photographing,Photographing,Portrait photography
+Chest,14.0,11,group11,9,Photographing,Photographing,Portrait photography
+Ear,7.0,11,group11,9,Photographing,Photographing,Portrait photography
+Elbow,11.0,11,group11,9,Photographing,Photographing,Portrait photography
+Eye,14.0,11,group11,9,Photographing,Photographing,Portrait photography
+Eyebrow,13.0,11,group11,9,Photographing,Photographing,Portrait photography
+Eyelash,17.0,11,group11,9,Photographing,Photographing,Portrait photography
+Face,5.0,11,group11,9,Photographing,Photographing,Portrait photography
+Finger,49.0,11,group11,9,Photographing,Photographing,Portrait photography
+Flesh,5.0,11,group11,9,Photographing,Photographing,Portrait photography
+Hand,8.0,11,group11,9,Photographing,Photographing,Portrait photography
+Jaw,16.0,11,group11,9,Photographing,Photographing,Portrait photography
+Knee,28.0,11,group11,9,Photographing,Photographing,Portrait photography
+Leg,37.0,11,group11,9,Photographing,Photographing,Portrait photography
+Lip,11.0,11,group11,9,Photographing,Photographing,Portrait photography
+Mouth,9.0,11,group11,9,Photographing,Photographing,Portrait photography
+Nail,11.0,11,group11,9,Photographing,Photographing,Portrait photography
+Navel,5.0,11,group11,9,Photographing,Photographing,Portrait photography
+Neck,14.0,11,group11,9,Photographing,Photographing,Portrait photography
+Nose,13.0,11,group11,9,Photographing,Photographing,Portrait photography
+Skewer,20.0,11,group11,9,Photographing,Photographing,Portrait photography
+Snout,55.0,11,group11,9,Photographing,Photographing,Portrait photography
+Tail,15.0,11,group11,9,Photographing,Photographing,Portrait photography
+Thigh,248.0,11,group11,9,Photographing,Photographing,Portrait photography
+Thumb,113.0,11,group11,9,Photographing,Photographing,Portrait photography
+Waist,33.0,11,group11,9,Photographing,Photographing,Portrait photography
+Whiskers,11.0,11,group11,9,Photographing,Photographing,Portrait photography
+Wrist,5.0,11,group11,9,Photographing,Photographing,Portrait photography
+Advertising,32.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Air travel,12.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Aircraft,13.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Aviation,5.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Entertainment,226.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Indoor games and sports,10.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Leisure,1952.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Motorsport,7.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Multimedia,7.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Music venue,10.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Racing,12.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Sport venue,6.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Sports,17.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Tourism,41.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Tourist attraction,7.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Travel,1658.0,16,group16,10,Outdoor recreation,Outdoor recreation,Entertainment
+Adventure,6.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Amusement ride,9.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Bonfire,17.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Campfire,8.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Camping,22.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Child,14.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Concert,5.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Dance,13.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Fireworks,45.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Fun,622.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Holiday,28.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Stuffed toy,5.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Toddler,57.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Toy,61.0,14,group14,10,Outdoor recreation,Outdoor recreation,Leisure with children
+Adaptation,110.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Al dente,22.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Ancient history,17.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Artifact,33.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Astronomical object,86.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Astronomy,5.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Atlas,5.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Atmospheric phenomenon,273.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Bedrock,146.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Extinction,10.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Fictional character,15.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Fines herbes,5.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Formation,57.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Geological phenomenon,72.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+History,29.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Map,42.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Marine biology,5.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Marine invertebrates,9.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Meteorological phenomenon,27.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Parallel,10.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Publication,12.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Science,47.0,7,group7,10,Outdoor recreation,Outdoor recreation,Natural phenomena
+Barbecue grill,18.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor furniture,229.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor grill,19.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor grill rack & topper,10.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor recreation,15.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor structure,13.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Outdoor table,51.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Recreation,854.0,42,group42,10,Outdoor recreation,Outdoor recreation,Outdoor grill
+Amber,23.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Aqua,10.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Azure,33.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Blue,28.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Brown,11.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Carmine,31.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Chamaemelum nobile,5.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Cumulus,409.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Electric blue,188.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Garnish,9.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Green,102.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Lacustrine plain,112.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Magenta,206.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Orange,14.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Pink,130.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Plain,270.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Purple,77.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Rainbow,5.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Sweetness,6.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Tints and shades,581.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Violet,56.0,10,group10,11,Festivities,Festivities,Colors and decorations
+White,14.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Yellow,43.0,10,group10,11,Festivities,Festivities,Colors and decorations
+Bottle,106.0,34,group34,11,Festivities,Festivities,Glass and bottle
+Glass,50.0,34,group34,11,Festivities,Festivities,Glass and bottle
+Glass bottle,18.0,34,group34,11,Festivities,Festivities,Glass and bottle
+Plastic bottle,11.0,34,group34,11,Festivities,Festivities,Glass and bottle
+Wine glass,8.0,34,group34,11,Festivities,Festivities,Glass and bottle
+Balloon,62.0,46,group46,11,Festivities,Festivities,Skyward elements
+Beam,7.0,46,group46,11,Festivities,Festivities,Skyward elements
+Chute,7.0,46,group46,11,Festivities,Festivities,Skyward elements
+Handrail,16.0,46,group46,11,Festivities,Festivities,Skyward elements
+Mast,9.0,46,group46,11,Festivities,Festivities,Skyward elements
+Pole,154.0,46,group46,11,Festivities,Festivities,Skyward elements
+Rope,6.0,46,group46,11,Festivities,Festivities,Skyward elements
+Skyscraper,6.0,46,group46,11,Festivities,Festivities,Skyward elements
+Stairs,51.0,46,group46,11,Festivities,Festivities,Skyward elements
+Tower,17.0,46,group46,11,Festivities,Festivities,Skyward elements
+Tower block,12.0,46,group46,11,Festivities,Festivities,Skyward elements
+Windmill,10.0,46,group46,11,Festivities,Festivities,Skyward elements
+Folk instrument,30.0,19,group19,12,Music performance,Music performance,Musical instruments
+Guitar,7.0,19,group19,12,Music performance,Music performance,Musical instruments
+Guitar accessory,6.0,19,group19,12,Music performance,Music performance,Musical instruments
+Musical instrument,43.0,19,group19,12,Music performance,Music performance,Musical instruments
+Musical instrument accessory,7.0,19,group19,12,Music performance,Music performance,Musical instruments
+Plucked string instruments,17.0,19,group19,12,Music performance,Music performance,Musical instruments
+String instrument,17.0,19,group19,12,Music performance,Music performance,Musical instruments
+Daisy family,7.0,47,group47,12,Music performance,Music performance,Plant
+Family reunion,12.0,47,group47,12,Music performance,Music performance,Plant
+Grass family,40.0,47,group47,12,Music performance,Music performance,Plant
+Rose family,13.0,47,group47,12,Music performance,Music performance,Plant
+Bicycle,15.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Bicycle frame,5.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Bicycle hub,6.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Bicycle tire,12.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Bicycle wheel,10.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Bicycle wheel rim,5.0,40,group40,13,Bicycling,Bicycling,Bicycle components
+Audio equipment,9.0,29,group29,13,Bicycling,Bicycling,Sport equipments
+Outdoor play equipment,10.0,29,group29,13,Bicycling,Bicycling,Sport equipments
+Personal protective equipment,21.0,29,group29,13,Bicycling,Bicycling,Sport equipments
+Sports equipment,26.0,29,group29,13,Bicycling,Bicycling,Sport equipments
+Stage equipment,5.0,29,group29,13,Bicycling,Bicycling,Sport equipments
+Body of water,39.0,27,group27,14,Bodies of water,Bodies of water,Aspects of water
+Water,1622.0,27,group27,14,Bodies of water,Bodies of water,Aspects of water
+Water bottle,5.0,27,group27,14,Bodies of water,Bodies of water,Aspects of water
+Water feature,9.0,27,group27,14,Bodies of water,Bodies of water,Aspects of water
+Water resources,158.0,27,group27,14,Bodies of water,Bodies of water,Aspects of water
+Beach,107.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Boat,71.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Dock,7.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Erg,26.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Ocean,15.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Paddle,6.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Pedestrian,28.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+People,26.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+People in nature,211.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+People on beach,22.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Race track,7.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Road,407.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Road surface,189.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Rolling,13.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Rolling stock,9.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Shore,5.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Stream,7.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Swimming pool,18.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Track,8.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Trail,5.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Underwater,8.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Walking,5.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Watercraft,72.0,0,group0,14,Bodies of water,Bodies of water,Ocean and river
+Agriculture,67.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Chicken meat,8.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Corn,6.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Corn on the cob,6.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Fish,15.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Livestock,12.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Meat,43.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Pork,26.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Poultry,6.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Rice,5.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Seafood,23.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients
+Turkey meat,8.0,31,group31,15,Food and cooking (b),Food and cooking,Food ingredients

@@ -1,0 +1,51 @@
+cluster_id,group,n_keywords,factor_id,factor_name,scene_name,subclass,candidate_1559_occurrences,final_1409_occurrences
+0,group0,23,14,Bodies of water,Bodies of water,Ocean and river,1272,1170
+1,group1,9,5,Fauna,Fauna,Animal product,431,406
+2,group2,25,4,Landform and architecture,Landform and architecture,Architectural elements,1916,1754
+3,group3,13,4,Landform and architecture,Landform and architecture,Residential elements,3366,3223
+4,group4,28,4,Landform and architecture,Landform and architecture,Urban and transportation infrastructure,1695,1591
+5,group5,28,3,Flora,Flora,Environmental and atmospheric phenomena,11644,10770
+6,group6,25,3,Flora,Flora,Trees and flowers,5957,5386
+7,group7,22,10,Outdoor recreation,Outdoor recreation,Natural phenomena,1037,915
+8,group8,39,6,Furnishings,Furnishings,Objects and settings,2516,2439
+9,group9,24,6,Furnishings,Furnishings,Geographical features,3980,3479
+10,group10,23,11,Festivities,Festivities,Colors and decorations,2363,2202
+11,group11,30,9,Photographing,Photographing,Portrait photography,837,780
+12,group12,42,9,Photographing,Photographing,Group photo,3881,3691
+13,group13,15,1,Food and cooking (a),Food and cooking,Kitchen and dining essentials,1313,1303
+14,group14,14,10,Outdoor recreation,Outdoor recreation,Leisure with children,912,871
+15,group15,13,8,Artistic embellishments,Artistic embellishments,Visual arts,1012,947
+16,group16,16,10,Outdoor recreation,Outdoor recreation,Entertainment,4015,3837
+17,group17,29,9,Photographing,Photographing,Appearance and dressing,668,637
+18,group18,9,4,Landform and architecture,Landform and architecture,Architectural designs,700,674
+19,group19,7,12,Music performance,Music performance,Musical instruments,127,125
+20,group20,6,0,Light,Light,Illuminate,241,234
+21,group21,7,0,Light,Light,Moment,395,377
+22,group22,16,1,Food and cooking (a),Food and cooking,Beverages,982,935
+23,group23,10,2,Caravan and road trip,Caravan and road trip,Automotive components,651,612
+24,group24,16,3,Flora,Flora,Ecological elements and environments,5533,5017
+25,group25,20,1,Food and cooking (a),Food and cooking,Cuisine,1591,1518
+26,group26,16,6,Furnishings,Furnishings,Interior design,2025,1995
+27,group27,5,14,Bodies of water,Bodies of water,Aspects of water,1833,1703
+28,group28,10,2,Caravan and road trip,Caravan and road trip,Types of vehicles,789,749
+29,group29,5,13,Bicycling,Bicycling,Sport equipments,71,68
+30,group30,7,9,Photographing,Photographing,Fashion photography,176,172
+31,group31,12,15,Food and cooking (b),Food and cooking,Food ingredients,225,194
+32,group32,14,5,Fauna,Fauna,Domesticated and working animals,271,248
+33,group33,11,8,Artistic embellishments,Artistic embellishments,Decorative elements,385,372
+34,group34,5,11,Festivities,Festivities,Glass and bottle,193,192
+35,group35,9,2,Caravan and road trip,Caravan and road trip,Vehicle components,432,383
+36,group36,7,4,Landform and architecture,Landform and architecture,Natural landscape,8257,7532
+37,group37,14,5,Fauna,Fauna,Types of animals,841,778
+38,group38,8,1,Food and cooking (a),Food and cooking,Fruit and vegetables,243,235
+39,group39,9,3,Flora,Flora,Types of plants,5998,5388
+40,group40,6,13,Bicycling,Bicycling,Bicycle components,53,34
+41,group41,10,6,Furnishings,Furnishings,Building materials,1860,1764
+42,group42,8,10,Outdoor recreation,Outdoor recreation,Outdoor grill,1209,1171
+43,group43,11,1,Food and cooking (a),Food and cooking,Dietary categories,909,878
+44,group44,6,8,Artistic embellishments,Artistic embellishments,Functional decoration,94,91
+45,group45,13,7,Sign and logo,Sign and logo,Visual sign,861,799
+46,group46,12,11,Festivities,Festivities,Skyward elements,357,335
+47,group47,4,12,Music performance,Music performance,Plant,72,57
+48,group48,4,7,Sign and logo,Sign and logo,Electronic device,75,73
+49,group49,4,0,Light,Light,Event,1708,1660

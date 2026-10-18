@@ -1,0 +1,3 @@
+class,precision_percent,recall_percent,f1_percent,n
+Glamping,77.0,89.7,82.9,224
+Camping,86.5,71.0,78.0,207

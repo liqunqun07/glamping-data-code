@@ -1,0 +1,183 @@
+{
+  "title": "Glamping scene and topic analysis workflow",
+  "version": "V3",
+  "entry_command": "python main.py",
+  "runtime_environment": {
+    "python": "3.10 or 3.11",
+    "device": "CPU",
+    "runtime_note": "Runtime depends on hardware and installed dependencies."
+  },
+  "input_directory": "input",
+  "retained_directory": "retained",
+  "output_directory": "output",
+  "pipeline_steps": [
+    {
+      "step": 0,
+      "script": "code/00_filter_reviews.py",
+      "purpose": "Select If pic=Y from 3,176 source reviews and require exact ID agreement with the 3,068 supplied manual-coding records."
+    },
+    {
+      "step": 1,
+      "script": "code/01_analysis.py",
+      "purpose": "Filter image tags, cluster WMD profiles, fit rotated factors, and derive scene memberships from fitted argmax factor assignments."
+    },
+    {
+      "step": 2,
+      "script": "code/02_scene_topic_tables.py",
+      "purpose": "Build scene frequencies, topic keywords, co-occurrence tables, and normalized scene-topic contributions."
+    },
+    {
+      "step": 3,
+      "script": "code/03_figure_intertopic_map.py",
+      "purpose": "Plot nine-topic coordinates from the retained LDA visualization."
+    },
+    {
+      "step": 4,
+      "script": "code/04_figure_pca_loadings.py",
+      "purpose": "Plot the newly fitted 50 by 16 factor loading matrix."
+    },
+    {
+      "step": 5,
+      "script": "code/05_campsite_distribution.py",
+      "purpose": "Summarize campsite distribution and operational name groups."
+    },
+    {
+      "step": 6,
+      "script": "code/06_score_cnn_validation.py",
+      "purpose": "Score all 431 validation images with the retained ResNet18 checkpoint."
+    },
+    {
+      "step": 7,
+      "script": "code/07_cnn_validation_metrics.py",
+      "purpose": "Calculate fixed-split validation metrics and plot the confusion matrix; read historical fold accuracies separately."
+    },
+    {
+      "step": 8,
+      "script": "code/08_gradcam.py",
+      "purpose": "Generate Grad-CAM examples from the retained checkpoint and validation images."
+    },
+    {
+      "step": 9,
+      "script": "code/09_image_grid.py",
+      "purpose": "Generate a representative validation prediction image grid."
+    },
+    {
+      "step": 10,
+      "script": "code/10_scene_figures.py",
+      "purpose": "Plot the scene frequency distribution."
+    },
+    {
+      "step": 11,
+      "script": "code/11_tag_group_mapping.py",
+      "purpose": "Build group-ID lookup tables linking keywords, word clusters (group0..group49), assigned PCA factors and names, ritual scenes, and taxonomy subclasses via the human-reviewed group-to-subclass codebook."
+    },
+    {
+      "step": 12,
+      "script": "code/12_scree_parallel_analysis.py",
+      "purpose": "Compute the parallel-analysis benchmark for the fitted eigenvalues and plot the scree plot and cumulative variance used to document the 16-factor decision."
+    }
+  ],
+  "data_inventory": [
+    {
+      "path": "input/raw_reviews.csv",
+      "role": "3,176 source reviews; If pic=Y for 3,068 eligible reviews and N for 108 excluded for unclear photographs, following the authors screening description."
+    },
+    {
+      "path": "input/campsite_display_order.csv",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "input/campsite_names.json",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "input/candidate_posts.csv",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "input/human_coding.csv",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "code_original/lda_custom_stopwords.csv",
+      "role": "Historical methodological record; excluded from main.py"
+    },
+    {
+      "path": "input/raw_vision_tags.csv",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "input/scene_taxonomy_v3.csv",
+      "role": "Supplied analysis input"
+    },
+    {
+      "path": "input/cnn_images",
+      "role": "1,005 training images and 431 validation images"
+    },
+    {
+      "path": "retained/best_glamping.pt",
+      "role": "Retained upstream artifact"
+    },
+    {
+      "path": "retained/cnn_five_fold_accuracy.csv",
+      "role": "Retained upstream artifact"
+    },
+    {
+      "path": "retained/lda_model_visualization.html",
+      "role": "Retained upstream artifact"
+    },
+    {
+      "path": "retained/lda_topic_assignments.csv",
+      "role": "Retained upstream artifact"
+    },
+    {
+      "path": "retained/tag_wmd_distance.csv",
+      "role": "Retained upstream artifact"
+    },
+    {
+      "path": "input/factor_scene_names.csv",
+      "role": "Original names and interpretations of the 16 rotated factors"
+    },
+    {
+      "path": "code_original/04rerundistance.py",
+      "role": "Historical WMD calculation trace; excluded from main.py"
+    },
+    {
+      "path": "code_original/05_lda_topic_model.py",
+      "role": "Historical LDA modeling trace; excluded from main.py"
+    }
+  ],
+  "artifact_notes": {
+    "wmd": {
+      "retained_matrix_shape": [
+        719,
+        719
+      ],
+      "analysis_subset_shape": [
+        719,
+        719
+      ],
+      "historical_new_matrix_note": "The reference script processes the 732-row output vocabulary and writes a separate matrix."
+    },
+    "lda": {
+      "assignment_rows": 1559,
+      "assignment_columns": [
+        "record_id",
+        "topic_id"
+      ],
+      "posterior_probability_vectors_saved": false,
+      "note": "The final joint corpus contains 1,409 reviews; keywords and map coordinates are read from the retained HTML."
+    },
+    "historical_procedures": "Selected WMD and LDA traces are in code_original/ and excluded from main.py; exact early upstream resources and environment are not supplied.",
+    "image_records": {
+      "source_rows": 9572,
+      "candidate_review_rows": 1559,
+      "pca_image_rows": 8965,
+      "final_review_rows": 1409,
+      "final_image_rows": 8330,
+      "duplicate_image_policy": "Retain all source rows; no image-content deduplication.",
+      "fit_order": "Fit PCA on candidate images before manual eligibility filtering.",
+      "factor_naming": "Original factor names; scene membership is derived solely from fitted argmax assignments via the factor table."
+    }
+  }
+}

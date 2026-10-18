@@ -1,0 +1,733 @@
+word,count
+Sky,5181.0
+Plant,4474.0
+Landscape,4244.0
+Grass,3480.0
+Natural landscape,3183.0
+Tree,3086.0
+Cloud,2861.0
+Building,1970.0
+Leisure,1952.0
+Event,1682.0
+Travel,1658.0
+Water,1622.0
+Wood,1311.0
+Mountain,1110.0
+Grassland,1067.0
+Shade,1021.0
+Horizon,907.0
+Flower,858.0
+Tent,856.0
+Recreation,854.0
+Terrestrial plant,799.0
+Art,740.0
+Land lot,703.0
+Food,639.0
+Fun,622.0
+Happy,599.0
+House,588.0
+Slope,581.0
+Tints and shades,581.0
+Table,567.0
+Asphalt,555.0
+City,536.0
+Tableware,511.0
+Facade,499.0
+Lake,497.0
+Groundcover,489.0
+Vehicle,458.0
+Cuisine,453.0
+Petal,436.0
+Nature,425.0
+Recipe,417.0
+Ingredient,414.0
+Cumulus,409.0
+Road,407.0
+Font,404.0
+Urban design,394.0
+Shrub,377.0
+Roof,374.0
+Fixture,364.0
+Gesture,335.0
+Dish,318.0
+Sharing,307.0
+Ecoregion,298.0
+Smile,297.0
+Photograph,285.0
+Atmosphere,278.0
+Highland,277.0
+Composite material,275.0
+Atmospheric phenomenon,273.0
+Plain,270.0
+Property,265.0
+Flowering plant,264.0
+Hill,259.0
+Gas,257.0
+Chair,255.0
+Soil,252.0
+Thigh,248.0
+Flooring,244.0
+Twig,242.0
+Dusk,235.0
+Midnight,230.0
+Outdoor furniture,229.0
+Hardwood,228.0
+Rectangle,227.0
+Entertainment,226.0
+Window,224.0
+Real estate,223.0
+Cooking,218.0
+Hat,214.0
+Comfort,213.0
+Terrain,212.0
+People in nature,211.0
+Magenta,206.0
+Botany,206.0
+Liquid,204.0
+Triangle,201.0
+Fence,200.0
+Darkness,191.0
+Road surface,189.0
+Fluvial landforms of streams,189.0
+Electric blue,188.0
+Natural foods,185.0
+Fog,184.0
+Forest,184.0
+Plant community,179.0
+Metal,178.0
+Afterglow,174.0
+Wheel,172.0
+Sleeve,171.0
+Biome,170.0
+Motor vehicle,163.0
+Tire,160.0
+Water resources,158.0
+Sunrise,155.0
+Pole,154.0
+Building material,151.0
+Natural environment,149.0
+Room,148.0
+Trunk,148.0
+Bedrock,146.0
+Automotive tire,145.0
+Mountain range,134.0
+Fruit,132.0
+Pink,130.0
+Sunset,126.0
+Heat,124.0
+Interior design,123.0
+Meadow,120.0
+Mountainous landforms,119.0
+Furniture,118.0
+Terrestrial animal,118.0
+Light,117.0
+Automotive exterior,115.0
+Watercourse,114.0
+Thumb,113.0
+Lacustrine plain,112.0
+Floor,111.0
+Temple,111.0
+Adaptation,110.0
+Annual plant,110.0
+Engineering,109.0
+Sculpture,107.0
+Beach,107.0
+Bottle,106.0
+Car,106.0
+Automotive lighting,105.0
+Green,102.0
+Wind,102.0
+Dishware,98.0
+Produce,95.0
+Fluid,92.0
+Plate,92.0
+World,91.0
+Textile,90.0
+Shorts,89.0
+Thoroughfare,88.0
+Pattern,87.0
+Astronomical object,86.0
+Tarpaulin,86.0
+Monument,85.0
+Herbaceous plant,84.0
+Working animal,83.0
+Arch,81.0
+Organism,79.0
+Vegetation,78.0
+Linens,78.0
+Bank,78.0
+Purple,77.0
+Flower Arranging,77.0
+Snapshot,75.0
+Aeolian landform,73.0
+Fire,73.0
+Wood stain,73.0
+Ceiling,73.0
+Watercraft,72.0
+Crowd,72.0
+Geological phenomenon,72.0
+Symmetry,71.0
+Boat,71.0
+Lawn,71.0
+T-shirt,71.0
+Sunlight,71.0
+Valley,70.0
+Circle,69.0
+Mist,69.0
+Staple food,68.0
+Red sky at morning,67.0
+Agriculture,67.0
+Historic site,64.0
+Tablecloth,64.0
+Human leg,64.0
+Signage,63.0
+Balloon,62.0
+Food group,61.0
+Toy,61.0
+Flame,61.0
+Chinese architecture,60.0
+Woody plant,60.0
+Lighting,59.0
+Landmark,59.0
+Performing arts,58.0
+Formation,57.0
+Rock,57.0
+Toddler,57.0
+Human,57.0
+Violet,56.0
+Carnivore,56.0
+Night,56.0
+Statue,55.0
+Snout,55.0
+Sitting,54.0
+Electricity,54.0
+Evergreen,52.0
+Flash photography,52.0
+Outdoor table,51.0
+Stairs,51.0
+Bird,51.0
+Fashion accessory,51.0
+Serveware,51.0
+Prairie,50.0
+Glass,50.0
+Rural area,50.0
+Display device,50.0
+Flowerpot,49.0
+Community,49.0
+Outcrop,49.0
+Finger,49.0
+Fawn,49.0
+Bed,48.0
+Decoration,48.0
+Vertebrate,47.0
+Science,47.0
+Drinkware,47.0
+Morning,46.0
+Brick,46.0
+Bridge,46.0
+Hedge,45.0
+Product,45.0
+Machine,45.0
+Whole food,45.0
+Bedding,45.0
+Fireworks,45.0
+Snow,44.0
+Yellow,43.0
+Musical instrument,43.0
+Painting,43.0
+Meat,43.0
+Map,42.0
+Beauty,42.0
+Tourism,41.0
+Space,41.0
+Leaf,41.0
+Grass family,40.0
+Waterfall,40.0
+Boats and boating--Equipment and supplies,40.0
+Branch,40.0
+Drink,39.0
+Facial expression,39.0
+Body of water,39.0
+Place of worship,39.0
+Automotive design,38.0
+Dog breed,38.0
+Coastal and oceanic landforms,37.0
+Medieval architecture,37.0
+Animal product,37.0
+Mammal,37.0
+Cookware and bakeware,37.0
+Leg,37.0
+Market,36.0
+Brickwork,36.0
+Arrosticini,36.0
+Arecales,36.0
+Lawn ornament,36.0
+Music,36.0
+Kitchen appliance,36.0
+Nonbuilding structure,35.0
+Leaf vegetable,35.0
+Dog,35.0
+Collage,34.0
+Vegetable,34.0
+Head,33.0
+Azure,33.0
+Waist,33.0
+Door,33.0
+Sand,33.0
+Fur,33.0
+Artifact,33.0
+Advertising,32.0
+Eyewear,32.0
+Haze,32.0
+Outerwear,32.0
+Cap,32.0
+Beak,32.0
+Paint,32.0
+Sun hat,31.0
+Carmine,31.0
+Waterway,31.0
+Friendship,31.0
+Hair,31.0
+Deciduous,31.0
+Folk instrument,30.0
+Freezing,30.0
+Visual arts,30.0
+Roasting,30.0
+Fast food,30.0
+Cottage,30.0
+Houseplant,30.0
+Street light,30.0
+Bed frame,30.0
+Jungle,29.0
+Subshrub,29.0
+History,29.0
+Sunglasses,29.0
+Companion dog,29.0
+Natural material,29.0
+Infrastructure,29.0
+Holiday,28.0
+Grilling,28.0
+Bumper,28.0
+Blue,28.0
+Calm,28.0
+Pedestrian,28.0
+Knee,28.0
+Riparian zone,27.0
+Meteorological phenomenon,27.0
+Automotive wheel system,27.0
+Arthropod,27.0
+Pork,26.0
+Sports equipment,26.0
+Social group,26.0
+Erg,26.0
+People,26.0
+Concrete,25.0
+Clothing,25.0
+Alcoholic beverage,25.0
+Wedding ceremony supply,25.0
+Umbrella,25.0
+Pollution,24.0
+Fashion,24.0
+Singing sand,24.0
+Hood,24.0
+Camelid,24.0
+Goggles,24.0
+Amber,23.0
+Residential area,23.0
+Bouquet,23.0
+Handwriting,23.0
+Pack animal,23.0
+Formal wear,23.0
+Seafood,23.0
+Auto part,23.0
+Comfort food,22.0
+Camping,22.0
+Glasses,22.0
+People on beach,22.0
+Japanese architecture,22.0
+Insect,22.0
+Floristry,22.0
+Wall,22.0
+Blossom,22.0
+Plateau,22.0
+Al dente,22.0
+Vision care,22.0
+Moon,22.0
+Environmental art,22.0
+Siding,21.0
+Animal fat,21.0
+Hill station,21.0
+Holy places,21.0
+Plant stem,21.0
+Spring,21.0
+Wildlife,21.0
+Walkway,21.0
+Architecture,21.0
+Personal protective equipment,21.0
+Skewer,20.0
+Human body,20.0
+Lens flare,20.0
+Camel,20.0
+Creative arts,20.0
+Outdoor grill,19.0
+Rose,19.0
+Tread,19.0
+Land vehicle,19.0
+Helmet,19.0
+Wing,19.0
+Mode of transport,19.0
+Ferris wheel,19.0
+Felidae,18.0
+Light fixture,18.0
+Baseball cap,18.0
+Plank,18.0
+Public space,18.0
+Swimming pool,18.0
+Barbecue grill,18.0
+Glass bottle,18.0
+Winter,18.0
+Mesh,18.0
+Naval architecture,18.0
+Tower,17.0
+Automotive parking light,17.0
+Eyelash,17.0
+Ancient history,17.0
+Sports,17.0
+Sign,17.0
+Bonfire,17.0
+Plucked string instruments,17.0
+Summer,17.0
+String instrument,17.0
+New year,16.0
+Pollinator,16.0
+Handrail,16.0
+Sidewalk,16.0
+Jaw,16.0
+Brochette,16.0
+Horse,15.0
+Flag,15.0
+Larch,15.0
+Outdoor recreation,15.0
+Fictional character,15.0
+Fish,15.0
+Electronic device,15.0
+Tail,15.0
+Temperate broadleaf and mixed forest,15.0
+Ocean,15.0
+Fender,15.0
+Barware,15.0
+Bicycle,15.0
+Sate kambing,15.0
+Neck,14.0
+Alpaca,14.0
+Child,14.0
+Music artist,14.0
+Orange,14.0
+Shelving,14.0
+Technology,14.0
+Funeral,14.0
+White,14.0
+Chest,14.0
+Palm tree,14.0
+Eye,14.0
+Dance,13.0
+Aircraft,13.0
+Plum tomato,13.0
+Meal,13.0
+Fashion design,13.0
+Eyebrow,13.0
+Nose,13.0
+Train,13.0
+Rolling,13.0
+Feather,13.0
+Rose family,13.0
+Cup,13.0
+Automotive mirror,13.0
+Outdoor structure,13.0
+Sporting Group,13.0
+Cherry Tomatoes,12.0
+Floral design,12.0
+Cylinder,12.0
+Kitchen utensil,12.0
+Pagoda,12.0
+Llama,12.0
+Family reunion,12.0
+Desk,12.0
+Publication,12.0
+Playground,12.0
+Bicycle tire,12.0
+Livestock,12.0
+Air travel,12.0
+Visual effect lighting,12.0
+Tower block,12.0
+Plan,12.0
+Headgear,12.0
+Star,12.0
+Suya,12.0
+Racing,12.0
+Dinosaur,12.0
+Shelf,12.0
+Wind wave,11.0
+Public event,11.0
+Whiskers,11.0
+Plastic bottle,11.0
+Finial,11.0
+Balance,11.0
+Service,11.0
+Fan,11.0
+Curtain,11.0
+Fireplace,11.0
+Brown,11.0
+Elbow,11.0
+Home appliance,11.0
+Pet supply,11.0
+Garden,11.0
+Nail,11.0
+Hybrid tea rose,11.0
+Lip,11.0
+Finger food,11.0
+Competition event,10.0
+Cable car,10.0
+Performance art,10.0
+Public transport,10.0
+Cool,10.0
+Aqua,10.0
+Windmill,10.0
+Outdoor grill rack & topper,10.0
+Music venue,10.0
+Outdoor play equipment,10.0
+Woodland,10.0
+Parallel,10.0
+Close-up,10.0
+Abdomen,10.0
+Collar,10.0
+Musician,10.0
+Candle,10.0
+Conifer,10.0
+Rim,10.0
+Fried food,10.0
+Indoor games and sports,10.0
+Line,10.0
+Extinction,10.0
+Fedora,10.0
+Screenshot,10.0
+Bicycle wheel,10.0
+Dress,10.0
+Steel,9.0
+Bedroom,9.0
+Condominium,9.0
+Mouth,9.0
+Retail,9.0
+Commemorative plaque,9.0
+Vehicle door,9.0
+Temperature,9.0
+Satay,9.0
+Audio equipment,9.0
+Mast,9.0
+Boardwalk,9.0
+Junk food,9.0
+Rolling stock,9.0
+Reservoir,9.0
+Local food,9.0
+Player,9.0
+Smoke,9.0
+Garnish,9.0
+Amusement ride,9.0
+Home fencing,9.0
+Marine invertebrates,9.0
+Pasture,9.0
+"Ducks, geese and swans",9.0
+Archaeological site,9.0
+Plastic,9.0
+Water feature,9.0
+Automotive tail & brake light,8.0
+Arm,8.0
+Track,8.0
+Customer,8.0
+Grey,8.0
+Luggage and bags,8.0
+Underwater,8.0
+Stemware,8.0
+Wine glass,8.0
+Living room,8.0
+Baked goods,8.0
+Cat,8.0
+Picture frame,8.0
+Artist,8.0
+Headlamp,8.0
+Cabinetry,8.0
+Swing,8.0
+Human settlement,8.0
+Poster,8.0
+Function hall,8.0
+Porcelain,8.0
+Campfire,8.0
+Wildflower,8.0
+Turkey meat,8.0
+Drunken chicken,8.0
+Chicken meat,8.0
+Waste container,8.0
+Shashlik,8.0
+Transparency,8.0
+Noodle,8.0
+Wire fencing,8.0
+Pyramid,8.0
+Arch bridge,8.0
+Hand,8.0
+Sportswear,7.0
+Sun,7.0
+Stream,7.0
+Musical instrument accessory,7.0
+Brassiere,7.0
+Style,7.0
+Bridle,7.0
+Horse tack,7.0
+Race track,7.0
+Evening,7.0
+Denim,7.0
+Tourist attraction,7.0
+Mixing bowl,7.0
+Monochrome photography,7.0
+Plywood,7.0
+Lumber,7.0
+Overhead power line,7.0
+Aquatic plant,7.0
+Shadow,7.0
+Transport hub,7.0
+Canidae,7.0
+Knackwurst,7.0
+Jewellery,7.0
+Porch,7.0
+Logo,7.0
+Breakfast sausage,7.0
+Landscaping,7.0
+Cervelat,7.0
+Shirt,7.0
+Diot,7.0
+Thuringian sausage,7.0
+Chute,7.0
+Waterfowl,7.0
+Longaniza,7.0
+Beam,7.0
+Rabbits and Hares,7.0
+Hairstyle,7.0
+Italian sausage,7.0
+Bicycles--Equipment and supplies,7.0
+Drawing,7.0
+Flat panel display,7.0
+Daisy family,7.0
+Dock,7.0
+Grave,7.0
+Truck,7.0
+Stage,7.0
+Bactrian camel,7.0
+Ear,7.0
+Symbol,7.0
+Fruit tree,7.0
+Herb,7.0
+Guitar,7.0
+Superfood,7.0
+Motorsport,7.0
+Multimedia,7.0
+Split-rail fence,7.0
+Uniform,6.0
+Cave,6.0
+Cemetery,6.0
+Guitar accessory,6.0
+Varnish,6.0
+Corn,6.0
+Corn on the cob,6.0
+Couch,6.0
+Rose order,6.0
+Commercial building,6.0
+Poultry,6.0
+Stone wall,6.0
+Mill,6.0
+Tradition,6.0
+Forb,6.0
+Fountain,6.0
+Bicycle hub,6.0
+Seedless fruit,6.0
+Butterfly,6.0
+Number,6.0
+Ball,6.0
+Van,6.0
+Paddle,6.0
+Small to medium-sized cats,6.0
+Skyscraper,6.0
+New year's eve,6.0
+Jacket,6.0
+Sport venue,6.0
+Horse supplies,6.0
+Rope,6.0
+Lamp,6.0
+Wine,6.0
+Sweetness,6.0
+Watch,6.0
+Jeans,6.0
+Peach,6.0
+Windshield,6.0
+Windsports,6.0
+Motorcycle,6.0
+Black hair,6.0
+Gadget,6.0
+Adventure,6.0
+Navel,5.0
+Security lighting,5.0
+Rejoicing,5.0
+Lantern,5.0
+Astronomy,5.0
+Still life photography,5.0
+Rainbow,5.0
+Food storage,5.0
+Dune,5.0
+Marine biology,5.0
+Bicycle frame,5.0
+Water bottle,5.0
+Party supply,5.0
+Microphone,5.0
+Tartan,5.0
+Fines herbes,5.0
+Shore,5.0
+Long hair,5.0
+Stage equipment,5.0
+Face,5.0
+Monolith,5.0
+Stew,5.0
+Bench,5.0
+Flesh,5.0
+Bicycle wheel rim,5.0
+Window treatment,5.0
+Primate,5.0
+Strawberry,5.0
+Rice,5.0
+Concrete bridge,5.0
+Concert,5.0
+Trail,5.0
+Pollen,5.0
+Karahi,5.0
+Chamaemelum nobile,5.0
+Railway,5.0
+Walking,5.0
+Soft drink,5.0
+Footwear,5.0
+Reflection,5.0
+Lotus,5.0
+Pillow,5.0
+Public utility,5.0
+Atlas,5.0
+Communication Device,5.0
+Field,5.0
+Output device,5.0
+Countertop,5.0
+Garden roses,5.0
+Aviation,5.0
+Billboard,5.0
+Wool,5.0
+Team,5.0
+Commercial vehicle,5.0
+Celestial event,5.0
+Solution,5.0
+Wrist,5.0
+Stuffed toy,5.0
+Military camouflage,5.0
