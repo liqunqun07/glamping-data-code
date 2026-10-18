@@ -3,7 +3,7 @@
 > **Restricted use — contact the author before reuse.**
 > These data and code accompany the manuscript **“Glamping as a Ritual Experience: Exploring Emotional Value in Outdoor Recreation through Visual and Textual Analysis”** and are provided for its submission and peer review. Public access or downloading does not grant permission for other uses. Any use beyond this manuscript's submission and peer review—including other research, model training, commercial use, redistribution, or repackaging—requires prior contact with **Qin Li at [kikili@zju.edu.cn](mailto:kikili@zju.edu.cn)** and explicit permission. Do not misuse these materials. Any third-party rights remain with their respective holders.
 
-The original package directory structure is available directly in this repository. The platform username column has been removed from `input/raw_reviews.csv`, consistent with the existing release package. Repository presentation updated by Codex.
+The original package directory structure is available directly in this repository. The platform username column has been removed from `input/raw_reviews.csv`, consistent with the existing release package.
 
 ---
 
